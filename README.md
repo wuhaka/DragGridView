@@ -1,2 +1,6 @@
 # DragGridView
-An android dragable gridview which has two ways for dragging, with drift, spring back, shift animation.
+
+ * A dragable gridview which has two ways for dragging. 
+ * And you can srcoll up or down when dragging.
+ * It provides drift, swap & shift and springback anmimation.
+ * You should implement changing data for an agile adapter.
